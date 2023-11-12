@@ -1,23 +1,17 @@
-# Get Started
+# Moshilify
 
-Run `npm install` to install the dependencies.
+A modern, stunning and responsive website built with HTML5 and CSS3.
+
+## Get started locally
+
+1. Run `npm install` to install the dependencies.
+2. In the root directory, you can run `npm start` to start the app on <http://localhost:1234> in development mode.
+3. Run `npm run build` to generate a production build in the `dist/` folder.
 
 ## Showcase
 
-[https://styled-moshify.netlify.app](https://styled-moshify.netlify.app)
+<https://styled-moshify.netlify.app>
 
 ## Screenshots
 
-![Moshify](screenshots/moshify-desktop.png "Moshify")
-
-## Available Scripts
-
-In the root directory, you can run:
-
-### `npm start`
-
-Runs app on [http://localhost:1234](http://localhost:1234) in development mode.
-
-### `npm run build`
-
-Builds app for production in the `dist/` folder.
+![Moshify](screenshots/moshify-desktop.png)
